@@ -7,7 +7,7 @@ package compitoscalaberni;
 
 /**
  *
- * @author studente
+ * @author Scalaberni Giulia
  */
 public class CompitoScalaberni {
 
